@@ -4,8 +4,6 @@ This repository contains the Power BI dashboard created to analyze and visualize
 
 ## Dashboard Overview
 
-Data-Professionals-Survey.png
-
 ### Key Insights:
 1. **Country of Residence**: Displays the distribution of survey takers by country.
 2. **Average Salary by Job Title**: Shows the average salary for different roles in the data profession.
