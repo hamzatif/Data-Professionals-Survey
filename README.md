@@ -4,7 +4,7 @@ This repository contains the Power BI dashboard created to analyze and visualize
 
 ## Dashboard Overview
 
-image link here
+Data-Professionals-Survey.png
 
 ### Key Insights:
 1. **Country of Residence**: Displays the distribution of survey takers by country.
