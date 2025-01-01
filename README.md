@@ -1,4 +1,4 @@
- Data Professional Survey Breakdown Dashboard
+# Data Professional Survey Breakdown Dashboard
 
 This repository contains the Power BI dashboard created to analyze and visualize survey data from data professionals, where they were asked a series of questions related to their profession. The dashboard provides insights into various aspects such as job titles, favorite programming languages, average salaries, and the challenges faced in the data field.
 
